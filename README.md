@@ -1,1 +1,1 @@
-# testerepositorio
+# testerepositorio esse é um repositório apenas para fim de estudos
